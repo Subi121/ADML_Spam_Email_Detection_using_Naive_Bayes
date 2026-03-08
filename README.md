@@ -1,9 +1,8 @@
 # Spam Email Detection using Naive Bayes
 
-Spam emails are a major problem in digital communication.  
-This project builds a simple machine learning model to classify emails as **Spam** or **Not Spam** using **Naive Bayes algorithms**.
-
-The system processes email text, extracts features, and predicts whether the message is spam based on learned patterns.
+- Spam emails are a major problem in digital communication.  
+- This project builds a simple machine learning model to classify emails as **Spam** or **Not Spam** using **Naive Bayes algorithms**.
+- The system processes email text, extracts features, and predicts whether the message is spam based on learned patterns.
 
 
 ## Objective
