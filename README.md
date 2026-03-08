@@ -70,5 +70,4 @@ The models are evaluated using the following metrics:
 
 
 ## Conclusion
-Naive Bayes classifiers provide an efficient and simple solution for spam detection.  
-Among the tested models, **TF-IDF + Multinomial Naive Bayes** achieved the best performance because it highlights important spam-related words while reducing the effect of common words.
+Naive Bayes classifiers provide an efficient and simple solution for spam detection.  Among the tested models, **TF-IDF + Multinomial Naive Bayes** achieved the best performance because it highlights important spam-related words while reducing the effect of common words.
