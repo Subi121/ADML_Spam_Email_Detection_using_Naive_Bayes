@@ -6,7 +6,6 @@ This project builds a simple machine learning model to classify emails as **Spam
 
 The system processes email text, extracts features, and predicts whether the message is spam based on learned patterns.
 
----
 
 ## Objective
 - Build a spam email classifier using **Naive Bayes**.
@@ -14,7 +13,7 @@ The system processes email text, extracts features, and predicts whether the mes
 - Train and compare different Naive Bayes models.
 - Evaluate the models using classification metrics.
 
----
+
 
 ## Models Used
 
@@ -27,7 +26,6 @@ Assigns higher importance to meaningful words and lower importance to common wor
 ### 3. TF-IDF + Gaussian Naive Bayes
 Uses TF-IDF values as continuous features and applies Gaussian probability distribution for classification.
 
----
 
 ## Features
 - Email text preprocessing
@@ -37,7 +35,7 @@ Uses TF-IDF values as continuous features and applies Gaussian probability distr
 - Spam classification using Naive Bayes
 - Performance evaluation using standard metrics
 
----
+
 
 ## Evaluation Metrics
 The models are evaluated using the following metrics:
@@ -47,7 +45,7 @@ The models are evaluated using the following metrics:
 - Recall
 - F1 Score
 
----
+
 
 ## Technologies Used
 - Python
@@ -55,7 +53,7 @@ The models are evaluated using the following metrics:
 - NumPy
 - Scikit-learn
 
----
+
 
 ## Project Workflow
 1. Load the dataset  
@@ -64,7 +62,7 @@ The models are evaluated using the following metrics:
 4. Train Naive Bayes models  
 5. Evaluate model performance  
 
----
+
 
 ## Use Cases
 - Email spam filtering systems
@@ -72,7 +70,6 @@ The models are evaluated using the following metrics:
 - Cybersecurity email monitoring
 - Fraud and phishing detection
 
----
 
 ## Conclusion
 Naive Bayes classifiers provide an efficient and simple solution for spam detection.  
